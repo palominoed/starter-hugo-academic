@@ -5,22 +5,15 @@ weight: 30
 title: Skills
 subtitle: null
 feature:
-  - description: 90%
+  - description: 
     icon: r-project
     icon_pack: fab
-    name: R
-  - description: 100%
+    name: R-tidyverse
+  - description: 
     icon: chart-line
     icon_pack: fas
     name: Statistics
-  - description: 10%
-    icon: camera-retro
+  - description: 
+    icon: book-open-cover
     icon_pack: fas
-    name: Photography
-widget_id: try skill list
----
-R-tidyverse
-
-R- tidymodels
-
-Research
+    name: Research
