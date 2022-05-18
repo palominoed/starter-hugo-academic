@@ -14,7 +14,7 @@ feature:
     icon_pack: fas
     name: Statistics
   - description: 
-    icon: book-open-cover
+    icon: book
     icon_pack: fas
     name: Research
 ---
