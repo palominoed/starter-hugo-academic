@@ -20,20 +20,18 @@ social:
       header: false
     link: https://www.linkedin.com/in/edgarpalomino/
     icon_pack: fab
-    icon: fab
+    icon: <i class="fa-brands fa-linkedin"></i>
 organizations:
-  - name: American Univeristy
+  - name: Center for Security, Innovation, & New Technology
+    url: https://www.american.edu/sis/centers/security-technology/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MA in International Affairs & Policy Analysis
+      institution: American University, School of International Service
+      year: 2025
+    - course: BA in Political Science
+      institution: University of Pennsylvania
+      year: 2014
 superuser: true
 highlight_name: true
 title: Edgar Palomino
