@@ -4,10 +4,10 @@ avatar_filename: linkedin_headshot.jpg
 bio: My research interests include blockchain technology policy, data science,
   and international realtions.
 interests:
-  - DataScienceinR
-  - MachineLearning
+  - Data Science in R
+  - Machine Learning
   - AI
-  - InternationalAffairs
+  - International Affairs
   - Blockchain
 social:
   - icon: envelope
@@ -20,7 +20,7 @@ social:
       header: false
     link: https://www.linkedin.com/in/edgarpalomino/
     icon_pack: fab
-    icon: <i class="fa-brands fa-linkedin"></i>
+    icon: linkedin
 organizations:
   - name: Center for Security, Innovation, & New Technology
     url: https://www.american.edu/sis/centers/security-technology/
@@ -28,10 +28,10 @@ education:
   courses:
     - course: MA in International Affairs & Policy Analysis
       institution: American University, School of International Service
-      year: 2025
+      year: 2022
     - course: BA in Political Science
       institution: University of Pennsylvania
-      year: 2014
+      year: 2017
 superuser: true
 highlight_name: true
 title: Edgar Palomino
